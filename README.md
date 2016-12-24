@@ -1,2 +1,2 @@
 # curso_python
-+Repositório dedicado aos exercícios do curso de Introdução à Ciência da Computação com Python - Coursera | IMEUSP  Lock conversation
+Repository dedicated to exercises from course of Introduction to Science Computing with Python -  Coursera | IMEUSP

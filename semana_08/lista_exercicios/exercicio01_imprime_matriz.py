@@ -9,16 +9,3 @@ def imprime_matriz(matriz):
         print()
 
 
-
-
-def main():
-
-    matriz = []
-    linha = [1,2,3]
-
-    for i in range(len(linha)):
-        matriz.append(linha)
-
-    imprime_matriz(matriz)
-
-main()

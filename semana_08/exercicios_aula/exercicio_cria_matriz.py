@@ -33,13 +33,13 @@ def imprime_matriz(matriz):
     for i in range(len(matriz)):
         for j in range(len(matriz[i])):
             print(matriz[i][j], end="")
-        print("")
+        print()
 
-# def main():
-#
-#     matriz = le_matriz()
-#     imprime_matriz(matriz)
-#     altera_valor_matriz(matriz)
-#     imprime_matriz(matriz)
-#
-# main()
+def main():
+
+    matriz = le_matriz()
+    imprime_matriz(matriz)
+    altera_valor_matriz(matriz)
+    imprime_matriz(matriz)
+
+main()
